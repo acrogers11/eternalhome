@@ -21,13 +21,16 @@ entries:
 
   - title: posts by category
     post_list:
+      category: eternal home radio
+      show_more: true
+      show_more_text: more mixes...
+      show_more_url: ehradio.html
+    post_list:
       category: example2
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
-  - title: rss
-    url: feed.xml
   
   - title: another list
     entries:
