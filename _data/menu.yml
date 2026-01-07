@@ -6,7 +6,7 @@ entries:
     entries:
       - title: exhibition forthcoming in 2026
       - title: eternal home radio
-        url: 
+        url: eternalhomeradio-archive.html
       - title: tomato mountain
       - title: eternal home press
       - title: goods
@@ -16,23 +16,24 @@ entries:
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: archive
       show_more_url: archive.html
 
   - title: radio posts
     post_list:
+      limit: 5
       category: eternalhomeradio
       show_more: true
       show_more_text: more mixes...
       show_more_url: eternalhomeradio-archive.html
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+ # - title: another list
+  #  entries:
+   #   - title: with subitems
+    #    entries:
+     #     - title: with subsubitems
+      #    - title: example page
+       #     url: about
+  #- title: PRO TIP
+   # entries:
+    #  - title: to edit this menu, edit _data/menu.yml file
