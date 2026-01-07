@@ -19,17 +19,19 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: radio posts
     post_list:
-      category: eternal home radio
+      category: eternalhomeradio
       show_more: true
       show_more_text: more mixes...
       show_more_url: ehradio.html
+    
     post_list:
       category: example2
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
+
 
   
   - title: another list
