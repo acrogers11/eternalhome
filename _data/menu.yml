@@ -24,7 +24,7 @@ entries:
       category: eternalhomeradio
       show_more: true
       show_more_text: more mixes...
-      show_more_url: ehradio.html
+      show_more_url: eternalhomeradio-archive.html
   
   - title: another list
     entries:
