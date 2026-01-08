@@ -26,7 +26,16 @@ entries:
       show_more: true
       show_more_text: more mixes...
       show_more_url: eternalhomeradio-archive.html
-  
+
+  - title: tomato mountain posts  
+    post limit:
+      limit: 5
+      category: tomatomountain
+      show_more: true
+      show_more_text: more tomato mountain...
+      show_more_url: tomatomountain-archive.html
+      
+         
  # - title: another list
   #  entries:
    #   - title: with subitems
