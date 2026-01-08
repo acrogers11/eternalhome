@@ -8,6 +8,7 @@ entries:
       - title: eternal home radio
         url: eternalhomeradio-archive.html
       - title: tomato mountain
+        url: tomatomountain-archive.html
       - title: eternal home press
       - title: goods
       - title: past works
@@ -34,8 +35,8 @@ entries:
       show_more: true
       show_more_text: more tomato mountain...
       show_more_url: tomatomountain-archive.html
-      
-         
+
+
  # - title: another list
   #  entries:
    #   - title: with subitems
