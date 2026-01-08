@@ -11,18 +11,18 @@ for now however i  wanted to make a quick post about the last tomato mountain tr
 
 the view from the mountain leading down to the beach
 
-![image] (assets/images/inauguraltomatomountaintripIMG_4877.jpeg)
+![image](assets/images/inauguraltomatomountaintripIMG_4877.jpeg)
 
 a clearing in the side of the mountain
 
-![image] (assets/images/inauguraltomatomountaintripIMG_4915.jpeg)
+![image](assets/images/inauguraltomatomountaintripIMG_4915.jpeg)
 
 banana slug chilling on the signage, leading us to our doom
 
-![image] (assets/images/inauguraltomatomountaintripIMG_5301.jpeg)
+![image](assets/images/inauguraltomatomountaintripIMG_5301.jpeg)
 
 looking crusty and eating beans and rice and tortilla. would love to move away from using single use plastic bags eventually. what is the actual cost of a couple of extra grams for something more reuseable?
 
-![image] (assets/images/inauguraltomatomountaintripIMG_5361.jpeg)
+![image](assets/images/inauguraltomatomountaintripIMG_5361.jpeg)
 
 really nice hiking. can't wait to go back. next up, hopefull we'll be spending some time in sunol. hope winter camping treats us well!
