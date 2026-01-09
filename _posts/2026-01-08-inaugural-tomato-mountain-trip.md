@@ -26,3 +26,7 @@ looking crusty and eating beans and rice and tortilla. would love to move away f
 ![image](assets/images/inauguraltomatomountaintripIMG_5361.jpeg)
 
 really nice hiking. can't wait to go back. next up, hopefull we'll be spending some time in sunol. hope winter camping treats us well!
+
+![image](assets/images/inauguraltomatomountaintripIMG_4905.jpeg)
+
+had to bust out this wicked outfit as well... surely sarah has pics on her device for her wicked fits too?
