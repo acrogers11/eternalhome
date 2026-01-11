@@ -12,6 +12,7 @@ entries:
       - title: eternal home press
       - title: goods
       - title: past works
+        url: past-works.html
 
   - title: all posts
     post_list:
