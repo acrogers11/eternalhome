@@ -1,5 +1,5 @@
 ---
-layout: goods
+layout: page
 category: goods
 ---
 
