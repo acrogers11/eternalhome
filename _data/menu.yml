@@ -40,6 +40,14 @@ entries:
       show_more_text: more tomato mounatin...
       show_more_url: tomatomountain-archive.html
 
+  - title: transit posts
+    post_list:
+      limit: 5
+      category: transit
+      show_more: true
+      show_more_text: more transit...
+      show_more_url: transit.html
+
 
  # - title: another list
   #  entries:
