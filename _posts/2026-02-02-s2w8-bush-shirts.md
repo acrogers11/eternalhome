@@ -13,7 +13,7 @@ the south2 west8 bush crew is a lightweight, fully polyester, and semi-sheer top
 
 ![image](assets/images/s2w8bushshirt2.png)
 
-super breathable, it feels good to just have a little extra barrier between me and the wind when i'm running or biking, but when it's just chilly enough to want more than just a t-shirt. the material is super light but strong. i've fallen both while biking and running in there shirts and they haven't ripped with abrasion on dirt or rock. one has a small hole from when it got snagged on something long ago, but other than that they've been great. also by nature of the material, they're quick drying and have never been through a dry cycle.
+super breathable, it feels good to just have a little extra barrier between me and the wind when i'm running or biking, but when it's just chilly enough to want more than just a t-shirt. the material is super light but strong. i've fallen both while biking and running in their shirts and they haven't ripped with abrasion on dirt or rock. one has a small hole from when it got snagged on something long ago, but other than that they've been great. also by nature of the material, they're quick drying and have never been through a dry cycle.
 
 ![image](assets/images/s2w8bushshirt4.png)
 

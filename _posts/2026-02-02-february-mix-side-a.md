@@ -4,7 +4,7 @@ category: eternalhomeradio
 ---
 
 <audio controls>
-  <source src="" type="audio/mpeg">
+  <source src="assets/audio/eternal_home_mix_2_side_1.mp3" type="audio/mpeg">
 </audio>
 
 Ble'r ei di - Sidan 
