@@ -23,4 +23,12 @@ i think two is more than enough for me, but if a good camo ever comes around at 
 
 ![image](assets/images/s2w8bushshirt5.png)
 
+vin bandana
+jansport bag
+s2w8 bush shirt
+cafe nyleta x e-wax tee
+rei swiftland 7" shorts
+lifelong by chup socks which will need their own post soon enough
+vans slip-ons
+
 thank you sarah for taking the awesome pics!
