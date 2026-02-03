@@ -14,6 +14,8 @@ entries:
         url: goods.html
       - title: past works
         url: past-works.html
+      - title: transit
+        url: transit.html
 
   - title: all posts
     post_list:
