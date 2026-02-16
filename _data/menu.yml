@@ -16,6 +16,8 @@ entries:
         url: past-works.html
       - title: transit
         url: transit.html
+      - title: monthly produce roundups
+        url: produce-archive.html
 
   - title: all posts
     post_list:
@@ -47,6 +49,14 @@ entries:
       show_more: true
       show_more_text: more transit...
       show_more_url: transit.html
+
+  - title: monthly produce roundups
+    post_list:
+      limit: 5
+      category: produce
+      show_more: true
+      show_more_text: more producto...
+      show_more_url: produce-archive.html
 
 
  # - title: another list
