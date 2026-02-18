@@ -52,13 +52,12 @@ the weather called for soup, and we responded.
 
 **tuesday**
 
+lunar new year is upon us at last! the lightning in the early morning and the sounds of firecrackers throughout the afternoon made me feel grateful for our beautiuful city. so begins the year of the horse!
 
+after work i spent most of the afternoon in anticipation for a DHL box containing some tomato-mountain-related items from japan. i have a deep, sort of sad feeling about my own obsessive, at times compulsive consumption, but i was admittedly foaming a bit at the sight of this:
 
+![image](assets/images/a_week_of_rain/IMG_6614.png)
 
+and while i won't spoil everything now because i think the contents of some of these envelopes will deserve their own posts when they get tested a bit, i will show off these delightful south2 west8 semi-fingerless gloves i think will be perfect for biking work in the morning, superflous logo aside:
 
-
-
-lunar new year
-lightning
-eagerly awaiting a DHL truck
-sarah's new jacket for fishermen
+![image](assets/images/a_week_of_rain/IMG_6616.png)
