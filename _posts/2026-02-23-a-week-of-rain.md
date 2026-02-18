@@ -16,17 +16,45 @@ so we drunk down our cups and started cruising through the west side of the city
 
 the buns weren't much to write home about, but i found the sponge cake *exactly* not too sweet. the matcha roll cake was... we don't talk about the matcha roll...
 
+these buns, however, were of some significance...
+
+![image](assets/images/a_week_of_rain/IMG_6560.png)
+
 onto the park we went! sarah:
 
 >My bike journey is this: from single speed, to road, and finally gravel. I decided to finally take the Bridgestone out (with Alex’s guidance) off road around Golden Gate Park. I was nervous because it was rainy, *very rainy*, and I have nothing that is really fully waterproof. 
 
-
+![image](assets/images/a_week_of_rain/IMG_6562.png)
 
 >My rain jacket consists of an old Uniqlo puffer that Alex got me when I was 20 that now doesn’t fit my arm length. It works for a bit until it doesn’t. My shoes consist of the Merrells you always see on the rei sell back rack because people constantly return them. Why? I don’t really know. They’re ugly but not horrible, not fully waterproof but sufficiently so. I bought them and I will use them. 
 
 ![image](assets/images/a_week_of_rain/IMG_6534.png)
 
 >My favorite of the gear has to be my new smart wool gloves that kept my hands very warm and aided in my handlebar grippage (is that a word?) They are taking a long time to dry though, it’s been a day and a half and they’re still wet but we also don’t have heat in our apartment. I wore my Ben Davis pants and a cafe nyleta beanie that I stole from Alex cause I like how tight it fits around my head. Anyways, this rainy day I learned that I still love playing in mud and I need to buy better rain clothes. 
+
+![image](assets/images/a_week_of_rain/IMG_6544.png)
+
+after riding around the park and exploring the awesome network of trails for quite some time we ended up in the botanical gardens to peep the blooming, fragrant magnolias.
+
+![image](assets/images/a_week_of_rain/IMG_6585.png)
+
+after a few hours of riding we needed desperately to rest and munch on some snacks. while sarah was pretty wet on her upper half, i was soaked through to my chonies. riding around without fenders or waterproof pants proved exactly how you might expect: wet and uncomfortable. 
+
+![image](assets/images/a_week_of_rain/IMG_8326.png)
+
+i ended up shedding my flannel and wool cardigan (nepenthes of course) and just wore a t-shirt under the montbell storm cruiser as we were getting pretty warm from climbing some fun hills. the jansport and BDs were completely soaked through though...
+
+after our fun little outing sarah wanted to look at the outdoor stores for an actual dedicated rain jacket, but the trips were kind of a bust. everything is so expensive at retail and nothing much spoke to her. more on that later.
+
+the weather called for soup, and we responded.
+
+![image](assets/images/a_week_of_rain/tumblr_1e84cb3a6a208e136c268ec58baff88c_052bc942_2048.jpg)
+
+**tuesday**
+
+
+
+
 
 
 
