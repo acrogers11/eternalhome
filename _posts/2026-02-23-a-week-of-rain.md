@@ -3,7 +3,7 @@ layout: post
 category: tomatomountain
 ---
 
-![image](assets/images/a_week_of_rain/IMG_8289.png)
+![image](acrogers11/eternalhome/assets/images/a_week_of_rain/IMG_8289.png)
 **monday**
 
 the rain has finally come to fall here in the city. the early spring we hoped for seems  deferred a bit further, so we took the forecast for a rare opportunity to test our rain gear, or perhaps our lack thereof. we decided what better way to get acquainted with our gear than on bikes. sarah writes: 
@@ -42,9 +42,9 @@ after a few hours of riding we needed desperately to rest and munch on some snac
 
 ![image](assets/images/a_week_of_rain/IMG_8326.png)
 
-i ended up shedding my flannel and wool cardigan (nepenthes of course) and just wore a t-shirt under the montbell storm cruiser as we were getting pretty warm from climbing some fun hills. the jansport and BDs were completely soaked through though...
+i ended up shedding my flannel and wool cardigan (nepenthes of course) and just wore a t-shirt under the montbell storm cruiser as we were getting pretty warm from climbing some fun hills. the jansport and gorilla cuts were completely soaked through though... perhaps it's time for a new daypack. the jansport's held up very well though considering it's like 15 years old. more on that later too perhaps...
 
-after our fun little outing sarah wanted to look at the outdoor stores for an actual dedicated rain jacket, but the trips were kind of a bust. everything is so expensive at retail and nothing much spoke to her. more on that later.
+after our outing sarah wanted to look at the outdoor stores for an actual dedicated rain jacket, but the trips were kind of a bust. everything is so expensive at retail and nothing much spoke to her. more on that later.
 
 the weather called for soup, and we responded.
 
@@ -61,3 +61,5 @@ after work i spent most of the afternoon in anticipation for a DHL box containin
 and while i won't spoil everything now because i think the contents of some of these envelopes will deserve their own posts when they get tested a bit, i will show off these delightful south2 west8 semi-fingerless gloves i think will be perfect for biking work in the morning, superflous logo aside:
 
 ![image](assets/images/a_week_of_rain/IMG_6616.png)
+
+
