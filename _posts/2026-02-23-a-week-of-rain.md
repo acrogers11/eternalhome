@@ -3,7 +3,7 @@ layout: post
 category: tomatomountain
 ---
 
-![image](acrogers11/eternalhome/assets/images/a_week_of_rain/IMG_8289.png)
+![image](assets/images/a_week_of_rain/IMG_8289.png)
 **monday**
 
 the rain has finally come to fall here in the city. the early spring we hoped for seems  deferred a bit further, so we took the forecast for a rare opportunity to test our rain gear, or perhaps our lack thereof. we decided what better way to get acquainted with our gear than on bikes. sarah writes: 
