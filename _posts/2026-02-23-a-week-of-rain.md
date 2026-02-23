@@ -42,7 +42,7 @@ after a few hours of riding it was time to rest up and snack. while sarah was pr
 
 ![image](assets/images/a_week_of_rain/IMG_8326.png)
 
-i ended up shedding my top layers and just wore a t-shirt under the montbell as we were getting pretty warm from climbing. the jansport and gorilla cuts were completely soaked through though. the jansport's held up well over the years considering it's like 15 years old. though a new, more waterproof daypack might be a worthy future investment. 
+i ended up shedding my top layers and just wore a t-shirt under the montbell as we were getting pretty warm from climbing. the jansport and gorilla cuts were completely soaked through. the jansport's held up well over the years considering it's like 15 years old. though a new, more waterproof daypack might be a worthy future investment. 
 
 after our outing sarah wanted to look at the outdoor stores for an actual dedicated rain jacket, but the trips were kind of a bust. everything is so expensive at retail and nothing much spoke to her.
 
@@ -56,7 +56,7 @@ lunar new year is upon us at last! the lightning in the early morning and the so
 
 with the rain impending, and after much contemplation about a jacket to replace the uniqlo one, sarah landed on a fisherman type polyurethane-coated polyester joint, and pulled the trigger:
 
->I ordered the [Neptune Jacket](https://grundens.com/products/neptune-319-jacket) from Grundens after spenidng a stressful Monday at REI. Shopping is horrible for me because of the insane amount of options. I have OCD so choosing things takes a long time for me and causes stress. I also hate spending money. But I felt that this was a nessesary invesment especially since Alex and I like to go camping. I chose this jacket because it’s simple. No armpit zippers, no crazy lightweight material, no insane brand attached to it. All things that keep it in an adequate price range, but more importantly fit what I feel is my philosophy: a simple, good quality object that will last a long time. 
+>I ordered the [Neptune Jacket](https://grundens.com/products/neptune-319-jacket) from Grundens after spending a stressful Monday at REI. Shopping is horrible for me because of the insane amount of options. I also hate spending money. But I felt that this was a nessesary invesment especially since Alex and I like to go camping. I chose this jacket because it’s simple. No armpit zippers, no crazy lightweight material, no insane brand attached to it. All things that keep it in an adequate price range, but more importantly fit what I feel is my philosophy: a simple, good quality object that will last a long time. 
 
 on the topic of pickups, after work i spent most of the afternoon in anticipation for a DHL box containing some tomato-mountain-related items from japan. i have a deep, sort of sad feeling about my own obsessive, at times compulsive consumption, especially in contrast with sarah's more frugal, utilitarian approach. i was, however, foaming a bit at the sight of this:
 
