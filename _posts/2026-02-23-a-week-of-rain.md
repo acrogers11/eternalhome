@@ -84,9 +84,13 @@ i did have a very drippy, functional fit though...
 ![image](assets/images/a_week_of_rain/fitty.png)
 
 montbell superior down puffer
+
 needles cowboys shirt
+
 needles hd cords
+
 70s cons
+
 and my little porter toolbag
 
 i grabbed some dry beans from the folks at the downtown farmer's market as they were packing up, a slice of pizza, made a quick trip to grab some more groceries for the coming days, and completely escaped the rain.
