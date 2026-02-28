@@ -3,6 +3,10 @@ layout: post
 category: eternalhomeradio
 ---
 
+<audio controls>
+  <source src="assets/audio/eternal_home_mix_3_side_1.mp3" type="audio/mpeg">
+</audio>
+
 for this month's A side i lined up some soft rock and jazz tracks. i'm layed up in bed with a thrown out back so these joints have been keeping me company. they say alternating between a little bit of heat and a little bit of cool is good for you. enjoy the singing strings, brass of the past, and shimmery keys. peace ☮ ❤ ♁
 
 tracklist:
