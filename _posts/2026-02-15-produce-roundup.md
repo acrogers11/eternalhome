@@ -3,7 +3,7 @@ layout: post
 category: produce
 ---
 
-this is the first in a series of monthly writeups about the prouce we've been eating. we think it will be helpful to look back on what was available in the bay area as the years go on, and what to look out for in the future. to begin with though, february was very exciting...
+this is the first in a series of monthly writeups about the proudce we've been eating. we think it will be helpful to look back on what was available in the bay area as the years go on, and what to look out for in the future. to begin with though, february was very exciting...
 
 
 ![image](assets/images/produce_roundups/sumomandarin.png)
