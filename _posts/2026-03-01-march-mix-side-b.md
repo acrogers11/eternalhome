@@ -18,7 +18,7 @@ tracklist:
 4. i will always love you - alex chilton
 5. i had lost my mind - daniel johnston 
 6. the sun shines down on me - daniel johnston
-7. vow of love jad fair and - daniel johnston
+7. vow of love - jad fair and daniel johnston
 8. bonus wave organ sounds i recorded
 
 ![image](assets/images/waveorgan.png)
