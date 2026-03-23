@@ -71,7 +71,7 @@ sarah weighed in with an apt comparison to the feeling of being out there:
 
 >I kept feeling like this certain painting, which I will add down below. If you want to feel like that painting, go to Sunol. 
 
-![image](assets/images/sunol/wandererabovetheseaoffog.jpg)
+>![image](assets/images/sunol/wandererabovetheseaoffog.jpg)
 >caspar david friedrich, *wanderer above the sea*, 1818
 
 until next trip!
