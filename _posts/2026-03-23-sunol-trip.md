@@ -43,7 +43,7 @@ after sitting a spell and basking in sun we started cooking some dinner. some mo
 
 ![image](assets/images/sunol/dinnermaking.png)
 
-after searching far and wide a few trips ago for dehydrated refried beans and ultimately deciding that ordering them online feels Insane with a capital I, they magically appeared at the co-op in the bulk section. it was with utter delight that i dressed them with a little oil and seasoning at home before taking them on the trail, and mixed them up with some minute rice for some trail-friendly casamiento. topped with avocado and organic fritos, we were in heaven. nothing like some home cooking a log ways from home. 
+after searching far and wide a few trips ago for dehydrated refried beans and ultimately deciding that ordering them online feels Insane with a capital I, they magically appeared at the co-op in the bulk section. it was with utter delight that i dressed them with a little oil and seasoning at home before taking them on the trail, and mixed them up with some minute rice for some trail-friendly casamiento. topped with avocado and organic fritos, we were in heaven. nothing like some home cooking a long ways from home. 
 
 ![image](assets/images/sunol/dinny.png)
 
@@ -51,7 +51,7 @@ we had a little bit of chocolate for dessert and finally the sun set so we mosey
 
 ![image](assets/images/sunol/sunset.png)
 
-in the morning, looking back on our little campsite reminded us that doing something really hard is awesome and rewarding. it felt great that we could access this beautiful nature not too far from the city, and that having less to carry really goes a long way. 
+in the morning, looking back on our little campsite reminded us that doing something really hard is awesome and rewarding. it felt great that we could access this beautiful nature not too far from the city, and that having less is more. 
 
 ![image](assets/images/sunol/campsite.png)
 
@@ -65,12 +65,11 @@ it should be obvious to our readers to that we had to get it cracking with some 
 
 ![image](assets/images/sunol/alexday2fit.png)
 
-we didn't pass to many others on the way back with it being a monday morning and all, but the few fokls we did see were up to cool stuff. nature photography, taking an unauthorized dip in the water, just walking. i love seeing the different ways folks cultivate their relationship with nature.
+we didn't pass too many others on the way back with it being a monday morning and all, but the few fokls we did see were up to cool stuff. nature photography, taking an unauthorized dip in the water, just walking. i love the different ways we cultivate our relationship with nature.
 
 sarah weighed in with an apt comparison to the feeling of being out there:
 
 >I kept feeling like this certain painting, which I will add down below. If you want to feel like that painting, go to Sunol. 
-
 >![image](assets/images/sunol/wandererabovetheseaoffog.jpg)
 >caspar david friedrich, *wanderer above the sea*, 1818
 
