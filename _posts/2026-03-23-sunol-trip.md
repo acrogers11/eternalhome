@@ -65,7 +65,7 @@ it should be obvious to our readers to that we had to get it cracking with some 
 
 ![image](assets/images/sunol/alexday2fit.png)
 
-we didn't pass too many others on the way back with it being a monday morning and all, but the few fokls we did see were up to cool stuff. nature photography, taking an unauthorized dip in the water, just walking. i love the different ways we cultivate our relationship with nature.
+we didn't pass too many others on the way back with it being a monday morning and all, but the few folks we did see were up to cool stuff. nature photography, taking an unauthorized dip in the water, just walking. i love the different ways we cultivate our relationship with nature.
 
 sarah weighed in with an apt comparison to the feeling of being out there:
 
