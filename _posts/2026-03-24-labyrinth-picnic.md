@@ -45,7 +45,7 @@ an eerie feeling sunk in. a pang of longing for something older and more megalit
 
 the sight of the water and the rock formations and the city in the distance made the labyrinth seem extremely insignificant. what was i doing here? looking for looking's sake?
 
-after eating lunch i did walk it, which took a bit longer than expected, and at the center i was greeted with a few sweet mementos but also trash. i felt a bit sick seeing memorial stones and general litter heaped up together on such a special overlook. not exactly the transporting experience i had hoped for. i packed my stuff back up and headed home, more motivated than ever to see something truly ancient.
+after eating lunch i did walk the path, which took a bit longer than expected, and at the center i was greeted with a few sweet mementos but also trash. i felt a bit sick seeing memorial stones and general litter heaped up together on such a special overlook. not exactly the transporting experience i had hoped for. i packed my stuff back up and headed home, more motivated than ever to see something truly ancient.
 
 ![image](assets/images/labyrinth_picnic/heap.png)
 
@@ -55,6 +55,7 @@ on the way back to the bottom of the hill you pass by what may have been an old 
 
 and at the bottom of the hill i prepared myself for the technical uphill, which was hard but not as hard as last time. i've been feeling stronger than i've ever felt in my life and trying to keep the ball rolling. reflecting, i thought those giant, toxic-seeming, impermanent mounds of something felt more like art or sculpture or monuments than any hike-friendly picnic spot.
 
-![image](assets/images/labyrinth_picnic/tomaleslines.jpg)
+>![image](assets/images/labyrinth_picnic/tomaleslines.jpg)
+>David Briggs, 2014
 
 this outing did inspire some research though. as far as local ancient monuments go, the tomales point stone lines are the obvious pick for sarah and i to visit next. their provenance eludes scientists and historians and they're big as fuck. a wicked hike is definitely in the cards for us next time. i'll be sure to charge the camera.
