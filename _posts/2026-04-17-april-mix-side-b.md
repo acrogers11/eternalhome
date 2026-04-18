@@ -4,7 +4,7 @@ category: eternalhomeradio
 ---
 
 <audio controls>
-  <source src="assets/audio/eternal_home_mix_4_side_2.m4a" type="audio/mpeg">
+  <source src="assets/audio/eternal_home_mix_4_side_2.mp3" type="audio/mpeg">
 </audio>
 
 In *Catching the Big Fish* David Lynch talks about music being an abstraction: “You don’t need to put music into words right away—you just listen.” As an abstraction, music is intuition. Music moves without language. When something makes you feel a certain way it’s impossible to put it into words immediately. Sometimes music makes me feel a motion or an emotion or a flash of memory. Initially I wanted to make a playlist of the Beatles' early stuff, some from the clubs they first played when they were still the Quarrymen. But after a difficult week in which my OCD symptoms were at an all time high I found myself listening to the Beatles songs that make me feel the ways I can’t explain, that feel abstract, like love. 
