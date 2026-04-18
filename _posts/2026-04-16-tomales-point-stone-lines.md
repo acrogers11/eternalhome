@@ -5,11 +5,11 @@ category: tomatomountain
 
 ![image](assets/images/tomalespoint/fitties.png)
 
-further interested by lucy lippard's overlay and my disappointing outing to the headlands labyrinth, discovering the tomales point stone line on the web led sarah and i on an unforgettable hike.
+further interested by lucy lippard's *overlay* and my disappointing outing to the headlands labyrinth, discovering the tomales point stone line on the web led sarah and i on an unforgettable hike.
 
 ![image](assets/images/tomalespoint/windowview.png)
 
-driving up the north bay on the way up to point reyes, the winding gravel road remoteness felt like a natural conclusion to the inverness lawns adorned with funky decor and local [barangrill](https://www.youtube.com/watch?v=_d0t5F2Si5M). for a region we'd traveled through many times, it felt special on this occasion, newly inspired by a region formerly host to expansive and gorgeous land art, redwood burl sculpture, and sumptuous architecture.
+driving up the north bay on the way up to point reyes, the winding gravel road remoteness felt like a natural conclusion to the inverness lawns adorned with funky decor and the handfull of local [barangrill](https://www.youtube.com/watch?v=_d0t5F2Si5M). for a region we'd traveled through many times, it felt special on this occasion, newly inspired by a region known to host to expansive and gorgeous land art, redwood burl sculpture, and sumptuous architecture.
 
 ![image](assets/images/tomalespoint/editednorthernart.png)
 
@@ -17,7 +17,7 @@ civilization sank behind us as we ascended the plateau, and an abandoned dairy e
 
 ![image](assets/images/tomalespoint/derelictderry.png)
 
-so having packed our cameras and a tiny bit of our camping equipment with us, unsure if there would be a place to relax among the stones, we hiked towards the point through a gently pitched and sandy trail. we avoided transiting pillbugs and the occasional gully. 
+so having packed our cameras and a tiny bit of our camping equipment, unsure if there would be a place to relax among the stones, we hiked towards the point through a gently pitched and sandy trail. we avoided transiting pillbugs and the occasional gully. 
 
 ![image](assets/images/tomalespoint/trailtowards.png)
 
@@ -37,7 +37,7 @@ and then there's the line: straight as an arrow, extending directly to the cliff
 
 ![image](assets/images/tomalespoint/lastfilmphoto.png)
 
-and then the film camera jammed. this too seemed to us a mystical thing, so sarah opted to coil up and protect the roll rather than risk the existing exposures getting ruined by unseen forces. very shortly thereafter we looked towards the trail to find a herd of grazing elk. they materialized like transient spirits, grazing the cliffside in silence.
+and then the film camera jammed after this one was taken. this too seemed to us a mystical thing, so sarah opted to coil up and protect the roll rather than risk the existing exposures getting ruined by unseen forces. very shortly thereafter we looked towards the trail to find a herd of elk. they materialized like transient spirits, grazing the cliffside in silence.
 
 ![image](assets/images/tomalespoint/elk.png)
 
@@ -45,7 +45,7 @@ we hiked a little further along, but having seen the monolith and the lines, the
 
 ![image](assets/images/tomalespoint/picnicphone.png)
 
-returning to the ranch we sat down at a picnic table to retire with cold snacks and hot coffee my friend brought back from taiwan. it's been several weeks since we took the trip up north to see the field of mounds, but i haven't been able to stop thinking of it. i'm reading hesse's *demian* right now per sarah's emphatic recommendation, and maybe this excerpt has something peripheral to do with my feelings about ancient life, neurosis, and rocks:
+returning to the ranch we sat down at a picnic table to retire with cold snacks and hot coffee my friend brought back from taiwan. it's been several weeks since we took the trip up north to see the field of mounds, but i haven't been able to stop thinking about it. i'm reading hesse's *demian* right now per sarah's emphatic recommendation, and maybe this excerpt has something peripheral to do with my feelings about ancient life, neurosis, and rocks:
 
 >Even as a young boy I had been in the habit of gazing at bizarre natural phenomena, not so much observing them as surrendering to their magic, their confused, deep language. Long gnarled tree roots, colored veins in rocks, patches of oil floating on water, light-refracting flaws in glass—all these things had held great magic for me at one time: water and fire particularly, smoke, clouds, and dust, but most of all the swirling specks of color that swam before my eyes the minute I closed them.
 >
