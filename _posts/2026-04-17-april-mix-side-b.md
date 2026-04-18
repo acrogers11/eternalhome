@@ -18,5 +18,7 @@ In *Catching the Big Fish* David Lynch talks about music being an abstraction: â
 7. I, Me, Mine
 8. I Need You
 9. Yesterday
+
 This is the first song I have memory of hearing. I was in the back seat of the car and I was around 4 years old and it really made me want to cry. 
+
 10. Bisbee Kitty
