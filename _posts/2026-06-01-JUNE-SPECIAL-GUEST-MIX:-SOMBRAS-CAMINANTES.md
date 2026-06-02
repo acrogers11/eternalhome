@@ -2,7 +2,7 @@
 layout: post
 category: eternalhomeradio
 ---
-![image](assets/images/guestmix/guestlistextras-03.PNG)
+![image](assets/images/guestmix/guestlistextras-01.PNG)
 
 hello everyone! we have an extremely special guest mix this month from our darling dear friends stevie and angel. the good, good homies really set it off this month with not one, but TWO epic sides of rippin', rockin', movin', and groovin' joints by which to turn on, tune in, drop out, bump in the whip, blast on the trail, crank on the commute, and turn up to 11 on the hi-fi. ☮︎✌︎︎ prepare for your expensive socks to be blown clean off, and let the ceaseless backup dancers below keep you company on this epic journey.
 
@@ -10,7 +10,9 @@ hello everyone! we have an extremely special guest mix this month from our darli
 
 >side 1:
 >
->![audio](assets/audio/June-guest-mix-side-1.mp3)
+><audio controls>
+>  <source src="assets/audio/June-guest-mix-side-1.mp3" type="audio/mpeg">
+></audio>
 >
 >1. Acantilado - El Principe Idiota
 >2. 27 - Gal Go, Diles que no me maten
@@ -25,7 +27,9 @@ hello everyone! we have an extremely special guest mix this month from our darli
 
 >side 2:
 >
->![audio](assets/audio/June-guest-mix-side-2.mp3)
+><audio controls>
+>  <source src="assets/audio/June-guest-mix-side-2.mp3" type="audio/mpeg">
+></audio>
 >
 >10. Mota - nusar3000
 >11. Pls. Stay - Broken Lip 
@@ -38,4 +42,4 @@ hello everyone! we have an extremely special guest mix this month from our darli
 >18. Can you - Park Hye Jin 
 >
 
-![image](assets/images/guestmix/guestlistextras-01.PNG)
+![image](assets/images/guestmix/guestlistextras-03.PNG)
