@@ -4,14 +4,11 @@
 entries:
   - title: projects
     entries:
-      - title: exhibition forthcoming in 2026
       - title: eternal home radio
         url: eternalhomeradio-archive.html
       - title: tomato mountain
         url: tomatomountain-archive.html
-      - title: eternal home press
-      - title: goods
-        url: goods.html
+      - title: eternal home press (forthcoming)
       - title: past works
         url: past-works.html
       - title: transit
