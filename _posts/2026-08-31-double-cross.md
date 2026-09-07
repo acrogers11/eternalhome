@@ -3,7 +3,8 @@ layout: post
 category: tomatomountain
 ---
 
->Why
+>Why<br><br>
+>
 >
 >Why all the embarrassment
 >
@@ -15,9 +16,10 @@ category: tomatomountain
 >
 >and for the same reasons,
 >
->and for others.
+>and for others.<br><br>
 >
-Wendell Berry
+>
+>*Wendell Berry*
 
 
 Recently I’ve been obsessed with watching ultra runners on YouTube. My favorite being Michael Versteeg, who appeals to me for his monastic nature and his religious perspective on running. So I decided to run again. I ran 5 miles after not running for a whole year. Prior to this attempt I tried and tried and couldn’t break the 3 mile barrier, but then something clicked. It is difficult but that’s what makes it beautiful. It feels like I must learn the same lesson a million times, but maybe this time I do. This relates to my 25 mile walk because my recent desire to run has made me curious about what moving for a long time does to you, and partly in preparation to run a marathon eventually. So I asked Alex to accompany me on this “cross town trail” ish route on Sunday. I was super curious and honestly overly confident about walking that far. I thought it would be kinda easy. It was not.
