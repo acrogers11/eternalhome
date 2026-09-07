@@ -15,7 +15,3 @@ A short playlist for August. Summer is coming to an end and life is filled with 
 4. This Guitar (Can't Keep From Crying) (Platinum Weird Version) - George Harrison 
 5. Te Recuerdo, Amanda - Victor Jara
 6. Awaiting on You all Day (Demo 1; take 1) - George Harrison
-
-
-
-
