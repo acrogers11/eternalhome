@@ -6,10 +6,15 @@ category: tomatomountain
 >Why
 >
 >Why all the embarrassment
+>
 >about being happy?
+>
 >Sometimes I’m as happy 
+>
 >as a sleeping dog, 
+>
 >and for the same reasons,
+>
 >and for others.
 >
 Wendell Berry
@@ -65,7 +70,7 @@ My stomach is really uncomfortable after those and we run out of water. We reach
 
 >Somewhere along the way we see this NO SKATEBOARDING mosaic which makes me laugh
 
-![assets/images/xtown/noskate.png]
+![image](assets/images/xtown/noskate.png)
 
 We see the green parrots at Telegraph Hill and they’re loud but so beautiful. We walk and walk and finally reach the pier. Basically that concludes the hike from one side to the other.
 
