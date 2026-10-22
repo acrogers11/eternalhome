@@ -4,7 +4,6 @@ category: tomatomountain
 ---
 
 >![image](assets/images/birdahh.png)
->awesome bird that i ran into today
 
 this is the story of my bad trip. i have had a few bad trips, but all exclusively when smoking weed, which over the years i have learned makes me anxious, which is itself a leading factor for having bad trips. but despite maybe two years of sobriety, a month or so ago i impulsively took a tab i’ve been saving for a rainy day during a three-day-weekend. i finished all my chores early and i knew i’d be home alone for hours to do whatever i wanted, and struck with profound boredom i swallowed the 4x4 millimeter fleck of gel.
 
