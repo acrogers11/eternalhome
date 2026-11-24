@@ -21,6 +21,6 @@ tracklist:
 2. Exile of the Sons of Uisliu - Milkweed
 3. Telepatija - Tihomir Pop Asanović
 4. Kiss And Run - The Legendary Stardust Cowboy
-5. 風をあつめて - Happyend
-6. Balderrama - Jorge Carfune
+5. Balderrama - Jorge Carfune
+6. 風をあつめて - Happyend
 7. Defeated No More - Disclosure
